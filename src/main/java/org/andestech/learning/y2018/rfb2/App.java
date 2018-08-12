@@ -9,6 +9,6 @@ import java.util.Date;
 public class App {
     public static void main(String[] args) {
 
-        System.out.println("Привет Гит! Hello World! " + new Date());
+        System.out.println("Привет Гитеры! Hello World! " + new Date());
     }
 }
