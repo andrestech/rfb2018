@@ -1,4 +1,4 @@
-package org.andestech.learning.y2018.rfb1;
+package org.andestech.learning.y2018.rfb2;
 
 import java.util.Date;
 
